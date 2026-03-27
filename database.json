@@ -1,6 +1,8 @@
 {
   "sudo": [],
-  "banned_users": [],
+  "banned_users": [
+    "185465881813117"
+  ],
   "banned_groups": [],
   "owner_react": "🤭",
   "settings": {
